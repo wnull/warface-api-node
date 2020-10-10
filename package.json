@@ -1,0 +1,8 @@
+{
+    "name": "warface-api-node",
+    "description": "Convenient library for working with the Warface API on Node.js",
+    "dependencies": {
+        "request": "^2.88.2",
+        "request-promise": "^4.2.6"
+    }
+}

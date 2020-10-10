@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+.idea/
+
+# Test files
+index.js
+
+# Packing
+package-lock.json
